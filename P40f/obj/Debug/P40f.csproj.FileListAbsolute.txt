@@ -1,0 +1,16 @@
+C:\Users\csi21-atallez\Desktop\Programacion\P40f\P40f\bin\Debug\P40f.exe.config
+C:\Users\csi21-atallez\Desktop\Programacion\P40f\P40f\bin\Debug\P40f.exe
+C:\Users\csi21-atallez\Desktop\Programacion\P40f\P40f\bin\Debug\P40f.pdb
+C:\Users\csi21-atallez\Desktop\Programacion\P40f\P40f\obj\Debug\P40f.csproj.AssemblyReference.cache
+C:\Users\csi21-atallez\Desktop\Programacion\P40f\P40f\obj\Debug\P40f.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi21-atallez\Desktop\Programacion\P40f\P40f\obj\Debug\P40f.csproj.CoreCompileInputs.cache
+C:\Users\csi21-atallez\Desktop\Programacion\P40f\P40f\obj\Debug\P40f.exe
+C:\Users\csi21-atallez\Desktop\Programacion\P40f\P40f\obj\Debug\P40f.pdb
+C:\Users\Alberto\Desktop\P40f\P40f\bin\Debug\P40f.exe.config
+C:\Users\Alberto\Desktop\P40f\P40f\bin\Debug\P40f.exe
+C:\Users\Alberto\Desktop\P40f\P40f\bin\Debug\P40f.pdb
+C:\Users\Alberto\Desktop\P40f\P40f\obj\Debug\P40f.csproj.AssemblyReference.cache
+C:\Users\Alberto\Desktop\P40f\P40f\obj\Debug\P40f.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alberto\Desktop\P40f\P40f\obj\Debug\P40f.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\P40f\P40f\obj\Debug\P40f.exe
+C:\Users\Alberto\Desktop\P40f\P40f\obj\Debug\P40f.pdb
